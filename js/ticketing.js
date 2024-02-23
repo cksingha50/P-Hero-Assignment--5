@@ -114,8 +114,8 @@ function applyCoupon() {
     location.reload();
   }
   
-  document.getElementById('scroll-button').addEventListener('click', function() {
-    document.getElementById('ticket-booking').scrollIntoView({ behavior: 'smooth' });
-  });
+//   document.getElementById('scroll-button').addEventListener('click', function() {
+//     document.getElementById('ticket-booking').scrollIntoView({ behavior: 'smooth' });
+//   });
   
   
